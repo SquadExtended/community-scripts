@@ -10,6 +10,10 @@ We encourage users to share their own creations. To contribute, please submit a 
 
 ---
 
+### Script Collection
+* **[scripts](scripts/)**
+  Contains all official scripts developed by SquadLink
+
 ### Featured Script: Spawn Race Vehicle
 This script allows any player to spawn a vehicle by typing `!race` in the chat. It demonstrates how to load game assets and spawn actors relative to a player's current position.
 
